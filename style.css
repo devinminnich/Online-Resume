@@ -1,0 +1,61 @@
+html{
+    background:#F0F5F9;
+    font-size:11pt;
+}
+div{
+    border:solid black;
+    background-color:#C9D6DF;
+    border-width:1px 1px 3px 6px;
+    padding:4px 8px;
+}
+#Header{
+    text-align:center;
+}
+#ContactInfo[p]{
+    text-align:center;
+}
+h1{
+    color:#52616B;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 1000;
+    font-style:normal;
+    text-align:center;
+}
+h2{
+    color:#52616B;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 700;
+    font-style:normal;
+}
+h3{
+    color:#52616B;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 600;
+    font-style:normal;
+}
+p{
+    color:#1E2022;
+    font-family: "Newsreader", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+li{
+    color:#1E2022;
+    font-family: "Newsreader", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+#current{
+    color:red;
+}
+*{
+    text-align:justify;
+}
+.title{
+    font-style:normal;
+}
+a:link{
+    color:#52616B;
+}
